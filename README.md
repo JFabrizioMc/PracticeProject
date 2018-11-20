@@ -1,4 +1,4 @@
-# PracticeProject
+# PC02
 Taller I proyecto
 
 Esto es un proyecto de prueba :v
